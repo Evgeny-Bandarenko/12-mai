@@ -1,0 +1,19 @@
+# a = int(input("Введите число: "))
+# k = 0
+# for i in range(2, a // 2+1):
+#     if a % i == 0:
+#         k = k+1
+# if k <= 0:
+#     print("Число простое")
+# else:
+#     print("Число не является простым")
+# 6.4
+# Zp =int(input("Сколько денег у Джона:"))
+# stoit = 0
+# while True:
+#     x = int(input("Сколько стоит товар:"))
+#     if stoit + x > Zp:
+#         print("Стоп, Джон!")
+#         break
+#     stoit += x
+# print("У Джона асталось", Zp - stoit)
